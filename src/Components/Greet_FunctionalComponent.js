@@ -4,7 +4,7 @@ import React from 'react';
     return <h1>Hi reactjs</h1>
 } */
 
-const greet = () => <h1>Hello reactjs</h1>;
+const greet = () => <h1>Hello Functional Component</h1>;
 
 //export default FirstGreet;
 
